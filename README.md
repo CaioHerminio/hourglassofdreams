@@ -15,6 +15,9 @@
   <p>The<strong>Hourglass of Dreams</strong> is the second project in my learning journey. Its focus is on <strong>variables, data types and arithmetic operators.</strong>. This program is inspired by a TedTalk by Josh Kaufman, refuting the myth that it takes 10,000 hours of practice to master a skill. According to him, we only need 20 hours to become good enough at something, to be average, above a beginner. Mastery, of course, will come after a lifetime of practice, but it doesn't take that long to learn a subject and be able to have fun or work with it.
 
   In this code, you talk to the wise and mysterious Hourglass of Dreams, who will tell you how many days, weeks and months it will take to become average in the skill you want, considering the number of days per week and hours per day that you will use it.
+
+  [Josh Kaufman's talk](https://www.youtube.com/watch?v=5MgBikgcWnY&t=)
+
   </p>
 
   <h2>🌱 Recommendation</h2>
