@@ -11,7 +11,6 @@ dream = input("The Hourglass ask you: 'What skill do you want to master?' \nYou:
 days = int(input("The living sands ask you for a number: 'How many days per week will you work on this dream?' \nYou: "))
 hours = int(input("The final question from the arcane device: 'How many hours per day will you dedicate to it?' \nYou: "))
 
-#/ Calculate total weekly hours and how many weeks to reach 25 hours
 #This was based on a TedTalk by Josh Kaufman, who said that it takes 20 hours to learn a new skill and become average at it.
 #I also noticed that most courses on 3D softwares, game development and programming also has a duration of 20-30 hours.
 #Because of that, I decided to use 25 hours as a base for this calculation. 
