@@ -20,6 +20,11 @@
 
   </p>
 
+  <h2>🤓 PREVIOUS PROJECTS</h2>
+  <p>
+  <a href="https://github.com/CaioHerminio/Magecraft">Project 1 - Magecraft University (variables and data types)</a>
+  </p>
+
   <h2>🌱 Recommendation</h2>
   <p>If this project proves helpful for your learning or teaching, feel free to <strong>modify</strong>, <strong>improve</strong>, or <strong>simplify</strong> it to suit your needs. The Fool’s path is yours to walk in your own way.😊</p>
 
