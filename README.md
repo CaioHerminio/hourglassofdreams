@@ -1,34 +1,39 @@
 <body>
-  <img src="./assets/image_1.png" alt="The Hourglass of Dreams" style="width: 100%; border-radius: 12px; margin-bottom: 20px;" />
+<img src="./assets/image_1.png" alt="The Hourglass of Dreams" style="width: 100%; border-radius: 12px; margin-bottom: 20px;" />
 
-  <h1>🧙‍♂️ The Code Fool's Journey</h1>
+<h1>⏳Hourglass of Dreams – Project 2 of The Code Fool's Journey</h1>
 
-  <p><strong>The Fool's Journey</strong> is similar to Joseph Campbell’s famous Hero’s Journey, but instead of 12 stages, it follows 22 stages, based on the 22 Major Arcana of the Tarot. Each card represents an archetype in the evolution of the protagonist, the Fool, who embarks on a path toward knowledge and personal power, just like programmers and artists. </p>
+<h2>Overview</h2>
 
-  <h2>💻 My Project</h2>
-  <p>Inspired by this narrative, I’m creating <strong>The Code Fool's Journey</strong>, a series of 22 programming projects written in the programming languages I’m currently studying, primarily <strong>Python</strong>, <strong>JavaScript</strong>, and <strong>C++</strong>.</p>
+<h3>Situation</h3>
+<p>Learning any new skill often feels overwhelming, especially when we worry about how long it will take to get good enough, or IF we will get good enough. This anxiety about the future causes us to procrastinate and abandon projects halfway through. This is a problem I have faced many times throughout my life, and many of my fellow artists have faced it as well. Now that I'm studying programming with a focus on the gaming industry, I don't want to make the same mistake of stopping fighting in the present because I'm afraid of the future.</p>
 
-  <h2>📈 The Evolution</h2>
-  <p>Each project builds on the previous one, gradually increasing in complexity. The idea is to learn progressively, mastering each concept before moving on to the next. This approach helps prevent the frustration of trying to solve problems beyond our current understanding, and offers a solid roadmap for self-taught learners or educators who value practical projects as learning tools, and for those who, like me, like to learn and compare different languages.</p>
+<h3>Task</h3>
+<p>My goal was to build a simple calculator that tells users how long it would take to become “average” at a skill based on their weekly dedication. I wanted the tool to be inspiring and mythic, turning a technical calculation into a fun storytelling experience.</p>
 
-  <h2>🧪 PROJECT 2 - THE HOURGLASS OF DREAMS</h2>
-  <p>The <strong>Hourglass of Dreams</strong> is the second project in my learning journey. Its focus is on <strong>variables, data types and arithmetic operators.</strong>. This program is inspired by a TedTalk by Josh Kaufman, refuting the myth that it takes 10,000 hours of practice to master a skill. According to him, we only need 20 hours to become good enough at something, to be average, above a beginner. Mastery, of course, will come after a lifetime of practice, but it doesn't take that long to learn a subject and be able to have fun or work with it.
+<h3>Action</h3>
+<p>I built the Hourglass of Dreams, an interactive program that uses input (goal, days/week, hours/day) to estimate how many days, weeks, or months are needed to reach 25 hours of practice. This number was chosen based on insights from a Josh Kaufman’s TED Talk who debunked the myth that it takes 10,000 hours of practice to master something. In practice, it only takes 20 hours to become average at any skill. It takes a lifetime to become a master, but you don't have to wait that long to become good at something. Based on this and the fact that several programming and digital art courses last between 20-30 hours, I've determined that 25 is a good amount to base our studies on.</p>
 
-  In this code, you talk to the wise and mysterious Hourglass of Dreams, who will tell you how many days, weeks and months it will take to become average in the skill you want, considering the number of days per week and hours per day that you will use it.
+<h3>Result</h3>
+<p>This is the second project in The Code Fool’s Journey, exploring basic arithmetic operations, user input, and practical problem-solving. The program is poetic and motivational, transforming something technical into something memorable.</p>
 
-  [Josh Kaufman's talk](https://www.youtube.com/watch?v=5MgBikgcWnY&t=)
+<h2>Multi-Language Learning Philosophy</h2>
+<p>Just like the first project, this one is being developed in Python, JavaScript, and C++. I’m studying these three languages simultaneously to avoid becoming too attached to the quirks of just one. This method helps me grasp the core logic of programming — which is universal across languages — rather than memorizing syntax. By rewriting the same project in multiple languages, I reinforce my understanding of structures, variables, functions, and flow — while also appreciating the expressive power of each language.</p>
 
-  </p>
+<h2>Project Scope: Hourglass of Dreams</h2>
+<p>Core concepts covered (in addition to those already seen in the previous project and returning in this one):</p>
+<ul>
+  <li>Arithmetic Operations</li>
+  <li>Basic logic</li>
+  <li>Storytelling</li>
+</ul>
 
-  <h2>🤓 PREVIOUS PROJECTS</h2>
-  <p>
-  <a href="https://github.com/CaioHerminio/Magecraft">Project 1 - Magecraft University (variables and data types)</a>
-  </p>
+<h1>About the Code Fool's Journey</h1>
+<p>The Fool's Journey is similar to Joseph Campbell’s famous Hero’s Journey, but instead of 12 stages, it follows 22 stages, based on the 22 Major Arcana of the Tarot. Each card represents an archetype in the evolution of the protagonist, the Fool, who embarks on a path toward knowledge and personal power, just like programmers and artists. Here, each project increases in complexity and covered concepts, from simple variables and data types to APIs, Memory Management, Databases and GUI.</p>
 
-  <h2>🌱 Recommendation</h2>
-  <p>If this project proves helpful for your learning or teaching, feel free to <strong>modify</strong>, <strong>improve</strong>, or <strong>simplify</strong> it to suit your needs. The Fool’s path is yours to walk in your own way.😊</p>
+<h1>Feel Free to Fork the Journey</h1>
+<p>If you find this helpful for learning or teaching, you're welcome to fork, improve, or remix it in your own way. The Fool’s path is yours to walk — and code — however you like.😊</p>
 
-  <img src="./assets/image_2.png" alt="The Hourglass of Dreams2" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
+<img src="./assets/image_2.png" alt="The Hourglass of Dreams2" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
 
 </body>
-</html>
